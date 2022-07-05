@@ -7,3 +7,4 @@ rebase2
 
 
 test c1
+test c2
