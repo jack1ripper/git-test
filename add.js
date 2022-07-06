@@ -5,3 +5,5 @@ V2
 
 V2
 分支v1
+
+function b()
